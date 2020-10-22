@@ -1,0 +1,27 @@
+.navbar{
+    background-color: rgb(165, 165, 50) !important;
+}
+.jumbotron{
+    background-color: rgb(235, 235, 171) !important;
+    
+        margin-bottom: 0 !important;
+
+}
+.card-deck{
+    padding: $spacer !important;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+/* Try to change button colour */
+.btn {
+    background-color:red !important;
+}
+.btn-primary
+{
+    background-color: rgb(68, 27, 29) !important;
+}
+{
+    background-color: rgb(165, 165, 50) !important;
+
+    btn btn-primary btn-lg
